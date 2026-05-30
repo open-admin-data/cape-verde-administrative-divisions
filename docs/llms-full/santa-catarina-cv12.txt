@@ -1,0 +1,14 @@
+# Santa Catarina — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV12
+> Coordinates: 15.091, -23.715
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santa Catarina
+
+Code: CV1201, Coordinates: 15.091, -23.715
+
+

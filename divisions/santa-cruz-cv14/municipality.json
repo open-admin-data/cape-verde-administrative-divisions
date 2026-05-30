@@ -1,0 +1,29 @@
+{
+  "id": "CV14",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Cruz",
+    "en": "Santa Cruz",
+    "slug": "santa-cruz-cv14"
+  },
+  "code": {
+    "id": "CV14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.111",
+    "lon": "-23.55"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CV1301",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Santa Catarina do Fogo",
+    "en": "Santa Catarina do Fogo",
+    "slug": "santa-catarina-do-fogo-cv1301"
+  },
+  "code": {
+    "id": "CV1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV13",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina do Fogo",
+      "en": "Santa Catarina do Fogo",
+      "slug": "santa-catarina-do-fogo-cv13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV13",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina do Fogo",
+        "en": "Santa Catarina do Fogo",
+        "slug": "santa-catarina-do-fogo-cv13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.901",
+    "lon": "-24.323"
+  },
+  "metadata": {},
+  "source": {}
+}

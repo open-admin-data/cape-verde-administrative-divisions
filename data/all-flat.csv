@@ -1,0 +1,23 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.municipality,children_count.parish,zip_codes,geo.lat,geo.lon
+CV01,1,Município,Municipality,Boa Vista,Boa Vista,boa-vista-cv01,CV01,,,,,,2,,16.099,-22.801
+CV02,1,Município,Municipality,Brava,Brava,brava-cv02,CV02,,,,,,2,,14.852,-24.709
+CV03,1,Município,Municipality,Maio,Maio,maio-cv03,CV03,,,,,,1,,15.227,-23.156
+CV04,1,Município,Municipality,Mosteiros,Mosteiros,mosteiros-cv04,CV04,,,,,,1,,15.001,-24.339
+CV05,1,Município,Municipality,Paul,Paul,paul-cv05,CV05,,,,,,1,,17.119,-25.023
+CV06,1,Município,Municipality,Porto Novo,Porto Novo,porto-novo-cv06,CV06,,,,,,2,,17.017,-25.2
+CV07,1,Município,Municipality,Praia,Praia,praia-cv07,CV07,,,,,,1,,14.948,-23.516
+CV08,1,Município,Municipality,Ribeira Brava,Ribeira Brava,ribeira-brava-cv08,CV08,,,,,,2,,16.581,-24.088
+CV09,1,Município,Municipality,Ribeira Grande,Ribeira Grande,ribeira-grande-cv09,CV09,,,,,,4,,17.143,-25.132
+CV10,1,Município,Municipality,Ribeira Grande de Santiago,Ribeira Grande de Santiago,ribeira-grande-de-santiago-cv10,CV10,,,,,,2,,14.984,-23.653
+CV11,1,Município,Municipality,Sal,Sal,sal-cv11,CV11,,,,,,1,,16.721,-22.939
+CV12,1,Município,Municipality,Santa Catarina,Santa Catarina,santa-catarina-cv12,CV12,,,,,,1,,15.091,-23.715
+CV13,1,Município,Municipality,Santa Catarina do Fogo,Santa Catarina do Fogo,santa-catarina-do-fogo-cv13,CV13,,,,,,1,,14.901,-24.323
+CV14,1,Município,Municipality,Santa Cruz,Santa Cruz,santa-cruz-cv14,CV14,,,,,,1,,15.111,-23.55
+CV15,1,Município,Municipality,Sao Domingos,Sao Domingos,sao-domingos-cv15,CV15,,,,,,2,,15.031,-23.532
+CV16,1,Município,Municipality,Sao Filipe,Sao Filipe,sao-filipe-cv16,CV16,,,,,,2,,14.922,-24.442
+CV17,1,Município,Municipality,Sao Lourenco dos Orgaos,Sao Lourenco dos Orgaos,sao-lourenco-dos-orgaos-cv17,CV17,,,,,,1,,15.067,-23.585
+CV18,1,Município,Municipality,Sao Miguel,Sao Miguel,sao-miguel-cv18,CV18,,,,,,1,,15.191,-23.643
+CV19,1,Município,Municipality,Sao Salvador do Mundo,Sao Salvador do Mundo,sao-salvador-do-mundo-cv19,CV19,,,,,,1,,15.088,-23.631
+CV20,1,Município,Municipality,Sao Vicente,Sao Vicente,sao-vicente-cv20,CV20,,,,,,1,,16.85,-24.972
+CV21,1,Município,Municipality,Tarrafal,Tarrafal,tarrafal-cv21,CV21,,,,,,1,,15.266,-23.723
+CV22,1,Município,Municipality,Tarrafal de Sao Nicolau,Tarrafal de Sao Nicolau,tarrafal-de-sao-nicolau-cv22,CV22,,,,,,1,,16.575,-24.334

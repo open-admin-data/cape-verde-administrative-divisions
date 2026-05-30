@@ -1,0 +1,14 @@
+# Mosteiros — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV04
+> Coordinates: 15.001, -24.339
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora da Ajuda
+
+Code: CV0401, Coordinates: 15.001, -24.339
+
+

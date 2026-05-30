@@ -1,0 +1,19 @@
+# Boa Vista — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV01
+> Coordinates: 16.099, -22.801
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santa Isabel
+
+Code: CV0101, Coordinates: 16.099, -22.848
+
+
+### Sao Joao Baptista
+
+Code: CV0102, Coordinates: 16.095, -22.717
+
+

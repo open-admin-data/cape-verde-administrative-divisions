@@ -1,0 +1,29 @@
+{
+  "id": "CV06",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Porto Novo",
+    "en": "Porto Novo",
+    "slug": "porto-novo-cv06"
+  },
+  "code": {
+    "id": "CV06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.017",
+    "lon": "-25.2"
+  },
+  "metadata": {},
+  "source": {}
+}

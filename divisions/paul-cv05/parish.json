@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV0501",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santo Antonio das Pombas",
+      "en": "Santo Antonio das Pombas",
+      "slug": "santo-antonio-das-pombas-cv0501"
+    },
+    "code": {
+      "id": "CV0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV05",
+      "level": 1,
+      "name": {
+        "local": "Paul",
+        "en": "Paul",
+        "slug": "paul-cv05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV05",
+        "level": 1,
+        "name": {
+          "local": "Paul",
+          "en": "Paul",
+          "slug": "paul-cv05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-25.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "CV04",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mosteiros",
+    "en": "Mosteiros",
+    "slug": "mosteiros-cv04"
+  },
+  "code": {
+    "id": "CV04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.001",
+    "lon": "-24.339"
+  },
+  "metadata": {},
+  "source": {}
+}

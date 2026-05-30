@@ -1,0 +1,45 @@
+{
+  "id": "CV1601",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora da Conceicao",
+    "en": "Nossa Senhora da Conceicao",
+    "slug": "nossa-senhora-da-conceicao-cv1601"
+  },
+  "code": {
+    "id": "CV1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV16",
+    "level": 1,
+    "name": {
+      "local": "Sao Filipe",
+      "en": "Sao Filipe",
+      "slug": "sao-filipe-cv16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV16",
+      "level": 1,
+      "name": {
+        "local": "Sao Filipe",
+        "en": "Sao Filipe",
+        "slug": "sao-filipe-cv16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.881",
+    "lon": "-24.436"
+  },
+  "metadata": {},
+  "source": {}
+}

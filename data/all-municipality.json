@@ -1,0 +1,640 @@
+[
+  {
+    "id": "CV01",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Boa Vista",
+      "en": "Boa Vista",
+      "slug": "boa-vista-cv01"
+    },
+    "code": {
+      "id": "CV01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.099",
+      "lon": "-22.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV02",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Brava",
+      "en": "Brava",
+      "slug": "brava-cv02"
+    },
+    "code": {
+      "id": "CV02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.852",
+      "lon": "-24.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV03",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maio",
+      "en": "Maio",
+      "slug": "maio-cv03"
+    },
+    "code": {
+      "id": "CV03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.227",
+      "lon": "-23.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV04",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mosteiros",
+      "en": "Mosteiros",
+      "slug": "mosteiros-cv04"
+    },
+    "code": {
+      "id": "CV04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.001",
+      "lon": "-24.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV05",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paul",
+      "en": "Paul",
+      "slug": "paul-cv05"
+    },
+    "code": {
+      "id": "CV05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-25.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV06",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Novo",
+      "en": "Porto Novo",
+      "slug": "porto-novo-cv06"
+    },
+    "code": {
+      "id": "CV06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.017",
+      "lon": "-25.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV07",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Praia",
+      "en": "Praia",
+      "slug": "praia-cv07"
+    },
+    "code": {
+      "id": "CV07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.948",
+      "lon": "-23.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV08",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeira Brava",
+      "en": "Ribeira Brava",
+      "slug": "ribeira-brava-cv08"
+    },
+    "code": {
+      "id": "CV08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.581",
+      "lon": "-24.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV09",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeira Grande",
+      "en": "Ribeira Grande",
+      "slug": "ribeira-grande-cv09"
+    },
+    "code": {
+      "id": "CV09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.143",
+      "lon": "-25.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV10",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ribeira Grande de Santiago",
+      "en": "Ribeira Grande de Santiago",
+      "slug": "ribeira-grande-de-santiago-cv10"
+    },
+    "code": {
+      "id": "CV10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.984",
+      "lon": "-23.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV11",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sal",
+      "en": "Sal",
+      "slug": "sal-cv11"
+    },
+    "code": {
+      "id": "CV11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.721",
+      "lon": "-22.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV12",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-cv12"
+    },
+    "code": {
+      "id": "CV12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.091",
+      "lon": "-23.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV13",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina do Fogo",
+      "en": "Santa Catarina do Fogo",
+      "slug": "santa-catarina-do-fogo-cv13"
+    },
+    "code": {
+      "id": "CV13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.901",
+      "lon": "-24.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV14",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz",
+      "en": "Santa Cruz",
+      "slug": "santa-cruz-cv14"
+    },
+    "code": {
+      "id": "CV14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.111",
+      "lon": "-23.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV15",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Domingos",
+      "en": "Sao Domingos",
+      "slug": "sao-domingos-cv15"
+    },
+    "code": {
+      "id": "CV15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.031",
+      "lon": "-23.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV16",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Filipe",
+      "en": "Sao Filipe",
+      "slug": "sao-filipe-cv16"
+    },
+    "code": {
+      "id": "CV16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.922",
+      "lon": "-24.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV17",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Lourenco dos Orgaos",
+      "en": "Sao Lourenco dos Orgaos",
+      "slug": "sao-lourenco-dos-orgaos-cv17"
+    },
+    "code": {
+      "id": "CV17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.067",
+      "lon": "-23.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV18",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Miguel",
+      "en": "Sao Miguel",
+      "slug": "sao-miguel-cv18"
+    },
+    "code": {
+      "id": "CV18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.191",
+      "lon": "-23.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV19",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Salvador do Mundo",
+      "en": "Sao Salvador do Mundo",
+      "slug": "sao-salvador-do-mundo-cv19"
+    },
+    "code": {
+      "id": "CV19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.088",
+      "lon": "-23.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV20",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sao Vicente",
+      "en": "Sao Vicente",
+      "slug": "sao-vicente-cv20"
+    },
+    "code": {
+      "id": "CV20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.85",
+      "lon": "-24.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV21",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarrafal",
+      "en": "Tarrafal",
+      "slug": "tarrafal-cv21"
+    },
+    "code": {
+      "id": "CV21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.266",
+      "lon": "-23.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV22",
+    "level": 1,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tarrafal de Sao Nicolau",
+      "en": "Tarrafal de Sao Nicolau",
+      "slug": "tarrafal-de-sao-nicolau-cv22"
+    },
+    "code": {
+      "id": "CV22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "parish": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.575",
+      "lon": "-24.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

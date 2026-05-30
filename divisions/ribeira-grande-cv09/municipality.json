@@ -1,0 +1,29 @@
+{
+  "id": "CV09",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeira Grande",
+    "en": "Ribeira Grande",
+    "slug": "ribeira-grande-cv09"
+  },
+  "code": {
+    "id": "CV09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.143",
+    "lon": "-25.132"
+  },
+  "metadata": {},
+  "source": {}
+}

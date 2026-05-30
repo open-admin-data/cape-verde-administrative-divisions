@@ -1,0 +1,45 @@
+{
+  "id": "CV0202",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Joao Baptista",
+    "en": "Sao Joao Baptista",
+    "slug": "sao-joao-baptista-cv0202"
+  },
+  "code": {
+    "id": "CV0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV02",
+    "level": 1,
+    "name": {
+      "local": "Brava",
+      "en": "Brava",
+      "slug": "brava-cv02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV02",
+      "level": 1,
+      "name": {
+        "local": "Brava",
+        "en": "Brava",
+        "slug": "brava-cv02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.852",
+    "lon": "-24.687"
+  },
+  "metadata": {},
+  "source": {}
+}

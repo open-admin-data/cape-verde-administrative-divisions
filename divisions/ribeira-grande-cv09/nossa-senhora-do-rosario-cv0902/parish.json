@@ -1,0 +1,45 @@
+{
+  "id": "CV0902",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora do Rosario",
+    "en": "Nossa Senhora do Rosario",
+    "slug": "nossa-senhora-do-rosario-cv0902"
+  },
+  "code": {
+    "id": "CV0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV09",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Grande",
+      "en": "Ribeira Grande",
+      "slug": "ribeira-grande-cv09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.15",
+    "lon": "-25.059"
+  },
+  "metadata": {},
+  "source": {}
+}

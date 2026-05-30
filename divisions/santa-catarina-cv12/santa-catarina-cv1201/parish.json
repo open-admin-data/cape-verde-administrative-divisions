@@ -1,0 +1,45 @@
+{
+  "id": "CV1201",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Santa Catarina",
+    "en": "Santa Catarina",
+    "slug": "santa-catarina-cv1201"
+  },
+  "code": {
+    "id": "CV1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV12",
+    "level": 1,
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-cv12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-cv12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.091",
+    "lon": "-23.715"
+  },
+  "metadata": {},
+  "source": {}
+}

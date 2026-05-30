@@ -1,0 +1,14 @@
+# Tarrafal de Sao Nicolau — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV22
+> Coordinates: 16.575, -24.334
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Sao Francisco de Assis
+
+Code: CV2201, Coordinates: 16.575, -24.334
+
+

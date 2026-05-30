@@ -1,0 +1,45 @@
+{
+  "id": "CV0101",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Santa Isabel",
+    "en": "Santa Isabel",
+    "slug": "santa-isabel-cv0101"
+  },
+  "code": {
+    "id": "CV0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV01",
+    "level": 1,
+    "name": {
+      "local": "Boa Vista",
+      "en": "Boa Vista",
+      "slug": "boa-vista-cv01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV01",
+      "level": 1,
+      "name": {
+        "local": "Boa Vista",
+        "en": "Boa Vista",
+        "slug": "boa-vista-cv01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.099",
+    "lon": "-22.848"
+  },
+  "metadata": {},
+  "source": {}
+}

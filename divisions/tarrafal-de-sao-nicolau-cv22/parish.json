@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV2201",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Francisco de Assis",
+      "en": "Sao Francisco de Assis",
+      "slug": "sao-francisco-de-assis-cv2201"
+    },
+    "code": {
+      "id": "CV2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV22",
+      "level": 1,
+      "name": {
+        "local": "Tarrafal de Sao Nicolau",
+        "en": "Tarrafal de Sao Nicolau",
+        "slug": "tarrafal-de-sao-nicolau-cv22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV22",
+        "level": 1,
+        "name": {
+          "local": "Tarrafal de Sao Nicolau",
+          "en": "Tarrafal de Sao Nicolau",
+          "slug": "tarrafal-de-sao-nicolau-cv22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.575",
+      "lon": "-24.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

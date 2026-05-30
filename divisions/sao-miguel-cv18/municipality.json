@@ -1,0 +1,29 @@
+{
+  "id": "CV18",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Miguel",
+    "en": "Sao Miguel",
+    "slug": "sao-miguel-cv18"
+  },
+  "code": {
+    "id": "CV18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.191",
+    "lon": "-23.643"
+  },
+  "metadata": {},
+  "source": {}
+}

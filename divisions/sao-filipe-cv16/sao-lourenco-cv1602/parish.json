@@ -1,0 +1,45 @@
+{
+  "id": "CV1602",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Lourenco",
+    "en": "Sao Lourenco",
+    "slug": "sao-lourenco-cv1602"
+  },
+  "code": {
+    "id": "CV1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV16",
+    "level": 1,
+    "name": {
+      "local": "Sao Filipe",
+      "en": "Sao Filipe",
+      "slug": "sao-filipe-cv16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV16",
+      "level": 1,
+      "name": {
+        "local": "Sao Filipe",
+        "en": "Sao Filipe",
+        "slug": "sao-filipe-cv16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.978",
+    "lon": "-24.433"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,14 @@
+# Sal — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV11
+> Coordinates: 16.721, -22.939
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora das Dores
+
+Code: CV1101, Coordinates: 16.721, -22.939
+
+

@@ -1,0 +1,29 @@
+{
+  "id": "CV17",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Lourenco dos Orgaos",
+    "en": "Sao Lourenco dos Orgaos",
+    "slug": "sao-lourenco-dos-orgaos-cv17"
+  },
+  "code": {
+    "id": "CV17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.067",
+    "lon": "-23.585"
+  },
+  "metadata": {},
+  "source": {}
+}

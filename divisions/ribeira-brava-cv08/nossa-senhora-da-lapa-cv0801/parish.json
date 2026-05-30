@@ -1,0 +1,45 @@
+{
+  "id": "CV0801",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora da Lapa",
+    "en": "Nossa Senhora da Lapa",
+    "slug": "nossa-senhora-da-lapa-cv0801"
+  },
+  "code": {
+    "id": "CV0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV08",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Brava",
+      "en": "Ribeira Brava",
+      "slug": "ribeira-brava-cv08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV08",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Brava",
+        "en": "Ribeira Brava",
+        "slug": "ribeira-brava-cv08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.654",
+    "lon": "-24.327"
+  },
+  "metadata": {},
+  "source": {}
+}

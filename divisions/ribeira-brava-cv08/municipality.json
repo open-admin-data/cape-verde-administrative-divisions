@@ -1,0 +1,29 @@
+{
+  "id": "CV08",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeira Brava",
+    "en": "Ribeira Brava",
+    "slug": "ribeira-brava-cv08"
+  },
+  "code": {
+    "id": "CV08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.581",
+    "lon": "-24.088"
+  },
+  "metadata": {},
+  "source": {}
+}

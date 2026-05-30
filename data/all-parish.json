@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "CV0101",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santa Isabel",
+      "en": "Santa Isabel",
+      "slug": "santa-isabel-cv0101"
+    },
+    "code": {
+      "id": "CV0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV01",
+      "level": 1,
+      "name": {
+        "local": "Boa Vista",
+        "en": "Boa Vista",
+        "slug": "boa-vista-cv01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV01",
+        "level": 1,
+        "name": {
+          "local": "Boa Vista",
+          "en": "Boa Vista",
+          "slug": "boa-vista-cv01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.099",
+      "lon": "-22.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0102",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Joao Baptista",
+      "en": "Sao Joao Baptista",
+      "slug": "sao-joao-baptista-cv0102"
+    },
+    "code": {
+      "id": "CV0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV01",
+      "level": 1,
+      "name": {
+        "local": "Boa Vista",
+        "en": "Boa Vista",
+        "slug": "boa-vista-cv01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV01",
+        "level": 1,
+        "name": {
+          "local": "Boa Vista",
+          "en": "Boa Vista",
+          "slug": "boa-vista-cv01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.095",
+      "lon": "-22.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0201",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora do Monte",
+      "en": "Nossa Senhora do Monte",
+      "slug": "nossa-senhora-do-monte-cv0201"
+    },
+    "code": {
+      "id": "CV0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV02",
+      "level": 1,
+      "name": {
+        "local": "Brava",
+        "en": "Brava",
+        "slug": "brava-cv02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV02",
+        "level": 1,
+        "name": {
+          "local": "Brava",
+          "en": "Brava",
+          "slug": "brava-cv02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.848",
+      "lon": "-24.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0202",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Joao Baptista",
+      "en": "Sao Joao Baptista",
+      "slug": "sao-joao-baptista-cv0202"
+    },
+    "code": {
+      "id": "CV0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV02",
+      "level": 1,
+      "name": {
+        "local": "Brava",
+        "en": "Brava",
+        "slug": "brava-cv02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV02",
+        "level": 1,
+        "name": {
+          "local": "Brava",
+          "en": "Brava",
+          "slug": "brava-cv02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.852",
+      "lon": "-24.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0301",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Luz",
+      "en": "Nossa Senhora da Luz",
+      "slug": "nossa-senhora-da-luz-cv0301"
+    },
+    "code": {
+      "id": "CV0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV03",
+      "level": 1,
+      "name": {
+        "local": "Maio",
+        "en": "Maio",
+        "slug": "maio-cv03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV03",
+        "level": 1,
+        "name": {
+          "local": "Maio",
+          "en": "Maio",
+          "slug": "maio-cv03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.227",
+      "lon": "-23.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0401",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Ajuda",
+      "en": "Nossa Senhora da Ajuda",
+      "slug": "nossa-senhora-da-ajuda-cv0401"
+    },
+    "code": {
+      "id": "CV0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV04",
+      "level": 1,
+      "name": {
+        "local": "Mosteiros",
+        "en": "Mosteiros",
+        "slug": "mosteiros-cv04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV04",
+        "level": 1,
+        "name": {
+          "local": "Mosteiros",
+          "en": "Mosteiros",
+          "slug": "mosteiros-cv04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.001",
+      "lon": "-24.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0501",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santo Antonio das Pombas",
+      "en": "Santo Antonio das Pombas",
+      "slug": "santo-antonio-das-pombas-cv0501"
+    },
+    "code": {
+      "id": "CV0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV05",
+      "level": 1,
+      "name": {
+        "local": "Paul",
+        "en": "Paul",
+        "slug": "paul-cv05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV05",
+        "level": 1,
+        "name": {
+          "local": "Paul",
+          "en": "Paul",
+          "slug": "paul-cv05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-25.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0601",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santo Andre",
+      "en": "Santo Andre",
+      "slug": "santo-andre-cv0601"
+    },
+    "code": {
+      "id": "CV0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV06",
+      "level": 1,
+      "name": {
+        "local": "Porto Novo",
+        "en": "Porto Novo",
+        "slug": "porto-novo-cv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV06",
+        "level": 1,
+        "name": {
+          "local": "Porto Novo",
+          "en": "Porto Novo",
+          "slug": "porto-novo-cv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.075",
+      "lon": "-25.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0602",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Joao Baptista",
+      "en": "Sao Joao Baptista",
+      "slug": "sao-joao-baptista-cv0602"
+    },
+    "code": {
+      "id": "CV0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV06",
+      "level": 1,
+      "name": {
+        "local": "Porto Novo",
+        "en": "Porto Novo",
+        "slug": "porto-novo-cv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV06",
+        "level": 1,
+        "name": {
+          "local": "Porto Novo",
+          "en": "Porto Novo",
+          "slug": "porto-novo-cv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.011",
+      "lon": "-25.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0701",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Graca",
+      "en": "Nossa Senhora da Graca",
+      "slug": "nossa-senhora-da-graca-cv0701"
+    },
+    "code": {
+      "id": "CV0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV07",
+      "level": 1,
+      "name": {
+        "local": "Praia",
+        "en": "Praia",
+        "slug": "praia-cv07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV07",
+        "level": 1,
+        "name": {
+          "local": "Praia",
+          "en": "Praia",
+          "slug": "praia-cv07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.948",
+      "lon": "-23.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0801",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Lapa",
+      "en": "Nossa Senhora da Lapa",
+      "slug": "nossa-senhora-da-lapa-cv0801"
+    },
+    "code": {
+      "id": "CV0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV08",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Brava",
+        "en": "Ribeira Brava",
+        "slug": "ribeira-brava-cv08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV08",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Brava",
+          "en": "Ribeira Brava",
+          "slug": "ribeira-brava-cv08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.654",
+      "lon": "-24.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0802",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora do Rosario",
+      "en": "Nossa Senhora do Rosario",
+      "slug": "nossa-senhora-do-rosario-cv0802"
+    },
+    "code": {
+      "id": "CV0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV08",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Brava",
+        "en": "Ribeira Brava",
+        "slug": "ribeira-brava-cv08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV08",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Brava",
+          "en": "Ribeira Brava",
+          "slug": "ribeira-brava-cv08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.566",
+      "lon": "-24.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0901",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora do Livramento",
+      "en": "Nossa Senhora do Livramento",
+      "slug": "nossa-senhora-do-livramento-cv0901"
+    },
+    "code": {
+      "id": "CV0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV09",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande",
+          "en": "Ribeira Grande",
+          "slug": "ribeira-grande-cv09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.182",
+      "lon": "-25.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0902",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora do Rosario",
+      "en": "Nossa Senhora do Rosario",
+      "slug": "nossa-senhora-do-rosario-cv0902"
+    },
+    "code": {
+      "id": "CV0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV09",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande",
+          "en": "Ribeira Grande",
+          "slug": "ribeira-grande-cv09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.15",
+      "lon": "-25.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0903",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santo Crucifixo",
+      "en": "Santo Crucifixo",
+      "slug": "santo-crucifixo-cv0903"
+    },
+    "code": {
+      "id": "CV0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV09",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande",
+          "en": "Ribeira Grande",
+          "slug": "ribeira-grande-cv09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.131",
+      "lon": "-25.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV0904",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Pedro Apostolo",
+      "en": "Sao Pedro Apostolo",
+      "slug": "sao-pedro-apostolo-cv0904"
+    },
+    "code": {
+      "id": "CV0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV09",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande",
+          "en": "Ribeira Grande",
+          "slug": "ribeira-grande-cv09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.13",
+      "lon": "-25.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1001",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santissimo Nome de Jesus",
+      "en": "Santissimo Nome de Jesus",
+      "slug": "santissimo-nome-de-jesus-cv1001"
+    },
+    "code": {
+      "id": "CV1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV10",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande de Santiago",
+        "en": "Ribeira Grande de Santiago",
+        "slug": "ribeira-grande-de-santiago-cv10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV10",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande de Santiago",
+          "en": "Ribeira Grande de Santiago",
+          "slug": "ribeira-grande-de-santiago-cv10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.95",
+      "lon": "-23.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1002",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Joao Baptista",
+      "en": "Sao Joao Baptista",
+      "slug": "sao-joao-baptista-cv1002"
+    },
+    "code": {
+      "id": "CV1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV10",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande de Santiago",
+        "en": "Ribeira Grande de Santiago",
+        "slug": "ribeira-grande-de-santiago-cv10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV10",
+        "level": 1,
+        "name": {
+          "local": "Ribeira Grande de Santiago",
+          "en": "Ribeira Grande de Santiago",
+          "slug": "ribeira-grande-de-santiago-cv10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.991",
+      "lon": "-23.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1101",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora das Dores",
+      "en": "Nossa Senhora das Dores",
+      "slug": "nossa-senhora-das-dores-cv1101"
+    },
+    "code": {
+      "id": "CV1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV11",
+      "level": 1,
+      "name": {
+        "local": "Sal",
+        "en": "Sal",
+        "slug": "sal-cv11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV11",
+        "level": 1,
+        "name": {
+          "local": "Sal",
+          "en": "Sal",
+          "slug": "sal-cv11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.721",
+      "lon": "-22.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1201",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santa Catarina",
+      "en": "Santa Catarina",
+      "slug": "santa-catarina-cv1201"
+    },
+    "code": {
+      "id": "CV1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-cv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Catarina",
+          "en": "Santa Catarina",
+          "slug": "santa-catarina-cv12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.091",
+      "lon": "-23.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1301",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santa Catarina do Fogo",
+      "en": "Santa Catarina do Fogo",
+      "slug": "santa-catarina-do-fogo-cv1301"
+    },
+    "code": {
+      "id": "CV1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV13",
+      "level": 1,
+      "name": {
+        "local": "Santa Catarina do Fogo",
+        "en": "Santa Catarina do Fogo",
+        "slug": "santa-catarina-do-fogo-cv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV13",
+        "level": 1,
+        "name": {
+          "local": "Santa Catarina do Fogo",
+          "en": "Santa Catarina do Fogo",
+          "slug": "santa-catarina-do-fogo-cv13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.901",
+      "lon": "-24.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1401",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santiago Maior",
+      "en": "Santiago Maior",
+      "slug": "santiago-maior-cv1401"
+    },
+    "code": {
+      "id": "CV1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV14",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-cv14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV14",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-cv14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.111",
+      "lon": "-23.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1501",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Luz",
+      "en": "Nossa Senhora da Luz",
+      "slug": "nossa-senhora-da-luz-cv1501"
+    },
+    "code": {
+      "id": "CV1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV15",
+      "level": 1,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-cv15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV15",
+        "level": 1,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-cv15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.031",
+      "lon": "-23.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1502",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Nicolau Tolentino",
+      "en": "Sao Nicolau Tolentino",
+      "slug": "sao-nicolau-tolentino-cv1502"
+    },
+    "code": {
+      "id": "CV1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV15",
+      "level": 1,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-cv15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV15",
+        "level": 1,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-cv15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.021",
+      "lon": "-23.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1601",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Conceicao",
+      "en": "Nossa Senhora da Conceicao",
+      "slug": "nossa-senhora-da-conceicao-cv1601"
+    },
+    "code": {
+      "id": "CV1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV16",
+      "level": 1,
+      "name": {
+        "local": "Sao Filipe",
+        "en": "Sao Filipe",
+        "slug": "sao-filipe-cv16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV16",
+        "level": 1,
+        "name": {
+          "local": "Sao Filipe",
+          "en": "Sao Filipe",
+          "slug": "sao-filipe-cv16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.881",
+      "lon": "-24.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1602",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Lourenco",
+      "en": "Sao Lourenco",
+      "slug": "sao-lourenco-cv1602"
+    },
+    "code": {
+      "id": "CV1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV16",
+      "level": 1,
+      "name": {
+        "local": "Sao Filipe",
+        "en": "Sao Filipe",
+        "slug": "sao-filipe-cv16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV16",
+        "level": 1,
+        "name": {
+          "local": "Sao Filipe",
+          "en": "Sao Filipe",
+          "slug": "sao-filipe-cv16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.978",
+      "lon": "-24.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1701",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Lourenco dos Orgaos",
+      "en": "Sao Lourenco dos Orgaos",
+      "slug": "sao-lourenco-dos-orgaos-cv1701"
+    },
+    "code": {
+      "id": "CV1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV17",
+      "level": 1,
+      "name": {
+        "local": "Sao Lourenco dos Orgaos",
+        "en": "Sao Lourenco dos Orgaos",
+        "slug": "sao-lourenco-dos-orgaos-cv17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV17",
+        "level": 1,
+        "name": {
+          "local": "Sao Lourenco dos Orgaos",
+          "en": "Sao Lourenco dos Orgaos",
+          "slug": "sao-lourenco-dos-orgaos-cv17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.067",
+      "lon": "-23.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1801",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Miguel Arcanjo",
+      "en": "Sao Miguel Arcanjo",
+      "slug": "sao-miguel-arcanjo-cv1801"
+    },
+    "code": {
+      "id": "CV1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV18",
+      "level": 1,
+      "name": {
+        "local": "Sao Miguel",
+        "en": "Sao Miguel",
+        "slug": "sao-miguel-cv18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV18",
+        "level": 1,
+        "name": {
+          "local": "Sao Miguel",
+          "en": "Sao Miguel",
+          "slug": "sao-miguel-cv18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.191",
+      "lon": "-23.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1901",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Salvador do Mundo",
+      "en": "Sao Salvador do Mundo",
+      "slug": "sao-salvador-do-mundo-cv1901"
+    },
+    "code": {
+      "id": "CV1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV19",
+      "level": 1,
+      "name": {
+        "local": "Sao Salvador do Mundo",
+        "en": "Sao Salvador do Mundo",
+        "slug": "sao-salvador-do-mundo-cv19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV19",
+        "level": 1,
+        "name": {
+          "local": "Sao Salvador do Mundo",
+          "en": "Sao Salvador do Mundo",
+          "slug": "sao-salvador-do-mundo-cv19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.088",
+      "lon": "-23.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV2001",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Luz",
+      "en": "Nossa Senhora da Luz",
+      "slug": "nossa-senhora-da-luz-cv2001"
+    },
+    "code": {
+      "id": "CV2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV20",
+      "level": 1,
+      "name": {
+        "local": "Sao Vicente",
+        "en": "Sao Vicente",
+        "slug": "sao-vicente-cv20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV20",
+        "level": 1,
+        "name": {
+          "local": "Sao Vicente",
+          "en": "Sao Vicente",
+          "slug": "sao-vicente-cv20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.85",
+      "lon": "-24.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV2101",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santo Amaro Abade",
+      "en": "Santo Amaro Abade",
+      "slug": "santo-amaro-abade-cv2101"
+    },
+    "code": {
+      "id": "CV2101",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV21",
+      "level": 1,
+      "name": {
+        "local": "Tarrafal",
+        "en": "Tarrafal",
+        "slug": "tarrafal-cv21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV21",
+        "level": 1,
+        "name": {
+          "local": "Tarrafal",
+          "en": "Tarrafal",
+          "slug": "tarrafal-cv21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.266",
+      "lon": "-23.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV2201",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Francisco de Assis",
+      "en": "Sao Francisco de Assis",
+      "slug": "sao-francisco-de-assis-cv2201"
+    },
+    "code": {
+      "id": "CV2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV22",
+      "level": 1,
+      "name": {
+        "local": "Tarrafal de Sao Nicolau",
+        "en": "Tarrafal de Sao Nicolau",
+        "slug": "tarrafal-de-sao-nicolau-cv22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV22",
+        "level": 1,
+        "name": {
+          "local": "Tarrafal de Sao Nicolau",
+          "en": "Tarrafal de Sao Nicolau",
+          "slug": "tarrafal-de-sao-nicolau-cv22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.575",
+      "lon": "-24.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

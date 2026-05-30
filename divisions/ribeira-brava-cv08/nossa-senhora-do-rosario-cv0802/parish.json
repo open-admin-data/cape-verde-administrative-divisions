@@ -1,0 +1,45 @@
+{
+  "id": "CV0802",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora do Rosario",
+    "en": "Nossa Senhora do Rosario",
+    "slug": "nossa-senhora-do-rosario-cv0802"
+  },
+  "code": {
+    "id": "CV0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV08",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Brava",
+      "en": "Ribeira Brava",
+      "slug": "ribeira-brava-cv08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV08",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Brava",
+        "en": "Ribeira Brava",
+        "slug": "ribeira-brava-cv08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.566",
+    "lon": "-24.066"
+  },
+  "metadata": {},
+  "source": {}
+}

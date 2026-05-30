@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV0301",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Luz",
+      "en": "Nossa Senhora da Luz",
+      "slug": "nossa-senhora-da-luz-cv0301"
+    },
+    "code": {
+      "id": "CV0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV03",
+      "level": 1,
+      "name": {
+        "local": "Maio",
+        "en": "Maio",
+        "slug": "maio-cv03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV03",
+        "level": 1,
+        "name": {
+          "local": "Maio",
+          "en": "Maio",
+          "slug": "maio-cv03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.227",
+      "lon": "-23.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

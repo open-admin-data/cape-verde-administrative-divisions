@@ -1,0 +1,14 @@
+# Santa Cruz — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV14
+> Coordinates: 15.111, -23.55
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santiago Maior
+
+Code: CV1401, Coordinates: 15.111, -23.55
+
+

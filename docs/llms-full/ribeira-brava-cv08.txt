@@ -1,0 +1,19 @@
+# Ribeira Brava — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV08
+> Coordinates: 16.581, -24.088
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora da Lapa
+
+Code: CV0801, Coordinates: 16.654, -24.327
+
+
+### Nossa Senhora do Rosario
+
+Code: CV0802, Coordinates: 16.566, -24.066
+
+

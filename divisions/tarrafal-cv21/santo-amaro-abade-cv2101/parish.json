@@ -1,0 +1,45 @@
+{
+  "id": "CV2101",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Santo Amaro Abade",
+    "en": "Santo Amaro Abade",
+    "slug": "santo-amaro-abade-cv2101"
+  },
+  "code": {
+    "id": "CV2101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV21",
+    "level": 1,
+    "name": {
+      "local": "Tarrafal",
+      "en": "Tarrafal",
+      "slug": "tarrafal-cv21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV21",
+      "level": 1,
+      "name": {
+        "local": "Tarrafal",
+        "en": "Tarrafal",
+        "slug": "tarrafal-cv21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.266",
+    "lon": "-23.723"
+  },
+  "metadata": {},
+  "source": {}
+}

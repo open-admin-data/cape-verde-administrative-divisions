@@ -1,0 +1,45 @@
+{
+  "id": "CV1001",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Santissimo Nome de Jesus",
+    "en": "Santissimo Nome de Jesus",
+    "slug": "santissimo-nome-de-jesus-cv1001"
+  },
+  "code": {
+    "id": "CV1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV10",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Grande de Santiago",
+      "en": "Ribeira Grande de Santiago",
+      "slug": "ribeira-grande-de-santiago-cv10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV10",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande de Santiago",
+        "en": "Ribeira Grande de Santiago",
+        "slug": "ribeira-grande-de-santiago-cv10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.95",
+    "lon": "-23.6"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV1901",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Salvador do Mundo",
+      "en": "Sao Salvador do Mundo",
+      "slug": "sao-salvador-do-mundo-cv1901"
+    },
+    "code": {
+      "id": "CV1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV19",
+      "level": 1,
+      "name": {
+        "local": "Sao Salvador do Mundo",
+        "en": "Sao Salvador do Mundo",
+        "slug": "sao-salvador-do-mundo-cv19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV19",
+        "level": 1,
+        "name": {
+          "local": "Sao Salvador do Mundo",
+          "en": "Sao Salvador do Mundo",
+          "slug": "sao-salvador-do-mundo-cv19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.088",
+      "lon": "-23.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

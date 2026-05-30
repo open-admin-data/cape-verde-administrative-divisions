@@ -1,0 +1,29 @@
+{
+  "id": "CV22",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tarrafal de Sao Nicolau",
+    "en": "Tarrafal de Sao Nicolau",
+    "slug": "tarrafal-de-sao-nicolau-cv22"
+  },
+  "code": {
+    "id": "CV22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.575",
+    "lon": "-24.334"
+  },
+  "metadata": {},
+  "source": {}
+}

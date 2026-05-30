@@ -1,0 +1,19 @@
+# Sao Domingos — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV15
+> Coordinates: 15.031, -23.532
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora da Luz
+
+Code: CV1501, Coordinates: 15.031, -23.488
+
+
+### Sao Nicolau Tolentino
+
+Code: CV1502, Coordinates: 15.021, -23.572
+
+

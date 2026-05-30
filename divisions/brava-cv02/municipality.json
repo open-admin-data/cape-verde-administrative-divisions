@@ -1,0 +1,29 @@
+{
+  "id": "CV02",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Brava",
+    "en": "Brava",
+    "slug": "brava-cv02"
+  },
+  "code": {
+    "id": "CV02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.852",
+    "lon": "-24.709"
+  },
+  "metadata": {},
+  "source": {}
+}

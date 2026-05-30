@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV1401",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Santiago Maior",
+      "en": "Santiago Maior",
+      "slug": "santiago-maior-cv1401"
+    },
+    "code": {
+      "id": "CV1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV14",
+      "level": 1,
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-cv14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV14",
+        "level": 1,
+        "name": {
+          "local": "Santa Cruz",
+          "en": "Santa Cruz",
+          "slug": "santa-cruz-cv14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.111",
+      "lon": "-23.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

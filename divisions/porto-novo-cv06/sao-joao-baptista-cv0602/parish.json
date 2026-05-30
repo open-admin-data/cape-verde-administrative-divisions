@@ -1,0 +1,45 @@
+{
+  "id": "CV0602",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Joao Baptista",
+    "en": "Sao Joao Baptista",
+    "slug": "sao-joao-baptista-cv0602"
+  },
+  "code": {
+    "id": "CV0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV06",
+    "level": 1,
+    "name": {
+      "local": "Porto Novo",
+      "en": "Porto Novo",
+      "slug": "porto-novo-cv06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV06",
+      "level": 1,
+      "name": {
+        "local": "Porto Novo",
+        "en": "Porto Novo",
+        "slug": "porto-novo-cv06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.011",
+    "lon": "-25.205"
+  },
+  "metadata": {},
+  "source": {}
+}

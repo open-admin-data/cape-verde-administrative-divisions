@@ -1,0 +1,29 @@
+{
+  "id": "CV19",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Salvador do Mundo",
+    "en": "Sao Salvador do Mundo",
+    "slug": "sao-salvador-do-mundo-cv19"
+  },
+  "code": {
+    "id": "CV19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.088",
+    "lon": "-23.631"
+  },
+  "metadata": {},
+  "source": {}
+}

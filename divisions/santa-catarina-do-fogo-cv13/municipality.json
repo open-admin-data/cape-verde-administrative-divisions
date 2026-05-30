@@ -1,0 +1,29 @@
+{
+  "id": "CV13",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Santa Catarina do Fogo",
+    "en": "Santa Catarina do Fogo",
+    "slug": "santa-catarina-do-fogo-cv13"
+  },
+  "code": {
+    "id": "CV13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.901",
+    "lon": "-24.323"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CV0102",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Joao Baptista",
+    "en": "Sao Joao Baptista",
+    "slug": "sao-joao-baptista-cv0102"
+  },
+  "code": {
+    "id": "CV0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV01",
+    "level": 1,
+    "name": {
+      "local": "Boa Vista",
+      "en": "Boa Vista",
+      "slug": "boa-vista-cv01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV01",
+      "level": 1,
+      "name": {
+        "local": "Boa Vista",
+        "en": "Boa Vista",
+        "slug": "boa-vista-cv01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.095",
+    "lon": "-22.717"
+  },
+  "metadata": {},
+  "source": {}
+}

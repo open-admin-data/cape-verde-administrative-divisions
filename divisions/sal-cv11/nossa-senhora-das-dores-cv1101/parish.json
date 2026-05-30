@@ -1,0 +1,45 @@
+{
+  "id": "CV1101",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora das Dores",
+    "en": "Nossa Senhora das Dores",
+    "slug": "nossa-senhora-das-dores-cv1101"
+  },
+  "code": {
+    "id": "CV1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV11",
+    "level": 1,
+    "name": {
+      "local": "Sal",
+      "en": "Sal",
+      "slug": "sal-cv11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV11",
+      "level": 1,
+      "name": {
+        "local": "Sal",
+        "en": "Sal",
+        "slug": "sal-cv11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.721",
+    "lon": "-22.939"
+  },
+  "metadata": {},
+  "source": {}
+}

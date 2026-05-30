@@ -1,0 +1,92 @@
+[
+  {
+    "id": "CV1501",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Luz",
+      "en": "Nossa Senhora da Luz",
+      "slug": "nossa-senhora-da-luz-cv1501"
+    },
+    "code": {
+      "id": "CV1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV15",
+      "level": 1,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-cv15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV15",
+        "level": 1,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-cv15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.031",
+      "lon": "-23.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CV1502",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Sao Nicolau Tolentino",
+      "en": "Sao Nicolau Tolentino",
+      "slug": "sao-nicolau-tolentino-cv1502"
+    },
+    "code": {
+      "id": "CV1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV15",
+      "level": 1,
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-cv15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV15",
+        "level": 1,
+        "name": {
+          "local": "Sao Domingos",
+          "en": "Sao Domingos",
+          "slug": "sao-domingos-cv15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.021",
+      "lon": "-23.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

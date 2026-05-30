@@ -1,0 +1,29 @@
+{
+  "id": "CV11",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sal",
+    "en": "Sal",
+    "slug": "sal-cv11"
+  },
+  "code": {
+    "id": "CV11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.721",
+    "lon": "-22.939"
+  },
+  "metadata": {},
+  "source": {}
+}

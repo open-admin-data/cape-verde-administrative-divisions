@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV0401",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Ajuda",
+      "en": "Nossa Senhora da Ajuda",
+      "slug": "nossa-senhora-da-ajuda-cv0401"
+    },
+    "code": {
+      "id": "CV0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV04",
+      "level": 1,
+      "name": {
+        "local": "Mosteiros",
+        "en": "Mosteiros",
+        "slug": "mosteiros-cv04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV04",
+        "level": 1,
+        "name": {
+          "local": "Mosteiros",
+          "en": "Mosteiros",
+          "slug": "mosteiros-cv04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.001",
+      "lon": "-24.339"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

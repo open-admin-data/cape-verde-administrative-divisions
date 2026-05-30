@@ -1,0 +1,19 @@
+# Brava — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV02
+> Coordinates: 14.852, -24.709
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora do Monte
+
+Code: CV0201, Coordinates: 14.848, -24.723
+
+
+### Sao Joao Baptista
+
+Code: CV0202, Coordinates: 14.852, -24.687
+
+

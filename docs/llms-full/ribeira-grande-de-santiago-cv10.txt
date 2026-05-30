@@ -1,0 +1,19 @@
+# Ribeira Grande de Santiago — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV10
+> Coordinates: 14.984, -23.653
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santissimo Nome de Jesus
+
+Code: CV1001, Coordinates: 14.95, -23.6
+
+
+### Sao Joao Baptista
+
+Code: CV1002, Coordinates: 14.991, -23.658
+
+

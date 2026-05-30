@@ -1,0 +1,55 @@
+# Cape Verde Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Per-Municipality Data Files
+
+- [Boa Vista](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/boa-vista-cv01.txt) — 2 parishs
+- [Brava](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/brava-cv02.txt) — 2 parishs
+- [Maio](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/maio-cv03.txt) — 1 parishs
+- [Mosteiros](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/mosteiros-cv04.txt) — 1 parishs
+- [Paul](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/paul-cv05.txt) — 1 parishs
+- [Porto Novo](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/porto-novo-cv06.txt) — 2 parishs
+- [Praia](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/praia-cv07.txt) — 1 parishs
+- [Ribeira Brava](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/ribeira-brava-cv08.txt) — 2 parishs
+- [Ribeira Grande](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/ribeira-grande-cv09.txt) — 4 parishs
+- [Ribeira Grande de Santiago](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/ribeira-grande-de-santiago-cv10.txt) — 2 parishs
+- [Sal](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sal-cv11.txt) — 1 parishs
+- [Santa Catarina](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/santa-catarina-cv12.txt) — 1 parishs
+- [Santa Catarina do Fogo](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/santa-catarina-do-fogo-cv13.txt) — 1 parishs
+- [Santa Cruz](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/santa-cruz-cv14.txt) — 1 parishs
+- [Sao Domingos](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-domingos-cv15.txt) — 2 parishs
+- [Sao Filipe](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-filipe-cv16.txt) — 2 parishs
+- [Sao Lourenco dos Orgaos](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-lourenco-dos-orgaos-cv17.txt) — 1 parishs
+- [Sao Miguel](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-miguel-cv18.txt) — 1 parishs
+- [Sao Salvador do Mundo](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-salvador-do-mundo-cv19.txt) — 1 parishs
+- [Sao Vicente](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/sao-vicente-cv20.txt) — 1 parishs
+- [Tarrafal](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/tarrafal-cv21.txt) — 1 parishs
+- [Tarrafal de Sao Nicolau](https://github.com/open-admin-data/cape-verde-administrative-divisions/blob/main/docs/llms-full/tarrafal-de-sao-nicolau-cv22.txt) — 1 parishs
+
+## Summary
+
+| Municipality | Parishs | 
+|---|---|
+| Boa Vista | 2 | 
+| Brava | 2 | 
+| Maio | 1 | 
+| Mosteiros | 1 | 
+| Paul | 1 | 
+| Porto Novo | 2 | 
+| Praia | 1 | 
+| Ribeira Brava | 2 | 
+| Ribeira Grande | 4 | 
+| Ribeira Grande de Santiago | 2 | 
+| Sal | 1 | 
+| Santa Catarina | 1 | 
+| Santa Catarina do Fogo | 1 | 
+| Santa Cruz | 1 | 
+| Sao Domingos | 2 | 
+| Sao Filipe | 2 | 
+| Sao Lourenco dos Orgaos | 1 | 
+| Sao Miguel | 1 | 
+| Sao Salvador do Mundo | 1 | 
+| Sao Vicente | 1 | 
+| Tarrafal | 1 | 
+| Tarrafal de Sao Nicolau | 1 | 

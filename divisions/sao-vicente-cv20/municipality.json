@@ -1,0 +1,29 @@
+{
+  "id": "CV20",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Vicente",
+    "en": "Sao Vicente",
+    "slug": "sao-vicente-cv20"
+  },
+  "code": {
+    "id": "CV20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.85",
+    "lon": "-24.972"
+  },
+  "metadata": {},
+  "source": {}
+}

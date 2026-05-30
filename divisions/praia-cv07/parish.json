@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CV0701",
+    "level": 2,
+    "level_name": {
+      "local": "Freguesia",
+      "en": "Parish"
+    },
+    "name": {
+      "local": "Nossa Senhora da Graca",
+      "en": "Nossa Senhora da Graca",
+      "slug": "nossa-senhora-da-graca-cv0701"
+    },
+    "code": {
+      "id": "CV0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "CV07",
+      "level": 1,
+      "name": {
+        "local": "Praia",
+        "en": "Praia",
+        "slug": "praia-cv07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CV07",
+        "level": 1,
+        "name": {
+          "local": "Praia",
+          "en": "Praia",
+          "slug": "praia-cv07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.948",
+      "lon": "-23.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

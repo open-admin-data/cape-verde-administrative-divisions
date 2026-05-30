@@ -1,0 +1,45 @@
+{
+  "id": "CV1002",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Joao Baptista",
+    "en": "Sao Joao Baptista",
+    "slug": "sao-joao-baptista-cv1002"
+  },
+  "code": {
+    "id": "CV1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV10",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Grande de Santiago",
+      "en": "Ribeira Grande de Santiago",
+      "slug": "ribeira-grande-de-santiago-cv10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV10",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande de Santiago",
+        "en": "Ribeira Grande de Santiago",
+        "slug": "ribeira-grande-de-santiago-cv10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.991",
+    "lon": "-23.658"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CV1801",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Miguel Arcanjo",
+    "en": "Sao Miguel Arcanjo",
+    "slug": "sao-miguel-arcanjo-cv1801"
+  },
+  "code": {
+    "id": "CV1801",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV18",
+    "level": 1,
+    "name": {
+      "local": "Sao Miguel",
+      "en": "Sao Miguel",
+      "slug": "sao-miguel-cv18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV18",
+      "level": 1,
+      "name": {
+        "local": "Sao Miguel",
+        "en": "Sao Miguel",
+        "slug": "sao-miguel-cv18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.191",
+    "lon": "-23.643"
+  },
+  "metadata": {},
+  "source": {}
+}

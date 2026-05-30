@@ -1,0 +1,14 @@
+# Paul — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV05
+> Coordinates: 17.119, -25.023
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santo Antonio das Pombas
+
+Code: CV0501, Coordinates: 17.119, -25.023
+
+

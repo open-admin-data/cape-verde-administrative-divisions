@@ -1,0 +1,14 @@
+# Sao Miguel — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV18
+> Coordinates: 15.191, -23.643
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Sao Miguel Arcanjo
+
+Code: CV1801, Coordinates: 15.191, -23.643
+
+

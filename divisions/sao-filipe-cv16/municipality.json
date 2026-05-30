@@ -1,0 +1,29 @@
+{
+  "id": "CV16",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Filipe",
+    "en": "Sao Filipe",
+    "slug": "sao-filipe-cv16"
+  },
+  "code": {
+    "id": "CV16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.922",
+    "lon": "-24.442"
+  },
+  "metadata": {},
+  "source": {}
+}

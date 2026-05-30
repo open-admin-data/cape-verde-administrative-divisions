@@ -1,0 +1,45 @@
+{
+  "id": "CV0904",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Pedro Apostolo",
+    "en": "Sao Pedro Apostolo",
+    "slug": "sao-pedro-apostolo-cv0904"
+  },
+  "code": {
+    "id": "CV0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV09",
+    "level": 1,
+    "name": {
+      "local": "Ribeira Grande",
+      "en": "Ribeira Grande",
+      "slug": "ribeira-grande-cv09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV09",
+      "level": 1,
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.13",
+    "lon": "-25.186"
+  },
+  "metadata": {},
+  "source": {}
+}

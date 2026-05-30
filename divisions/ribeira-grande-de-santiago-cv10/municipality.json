@@ -1,0 +1,29 @@
+{
+  "id": "CV10",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ribeira Grande de Santiago",
+    "en": "Ribeira Grande de Santiago",
+    "slug": "ribeira-grande-de-santiago-cv10"
+  },
+  "code": {
+    "id": "CV10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.984",
+    "lon": "-23.653"
+  },
+  "metadata": {},
+  "source": {}
+}

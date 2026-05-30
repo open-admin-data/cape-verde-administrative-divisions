@@ -1,0 +1,45 @@
+{
+  "id": "CV1701",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Sao Lourenco dos Orgaos",
+    "en": "Sao Lourenco dos Orgaos",
+    "slug": "sao-lourenco-dos-orgaos-cv1701"
+  },
+  "code": {
+    "id": "CV1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV17",
+    "level": 1,
+    "name": {
+      "local": "Sao Lourenco dos Orgaos",
+      "en": "Sao Lourenco dos Orgaos",
+      "slug": "sao-lourenco-dos-orgaos-cv17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV17",
+      "level": 1,
+      "name": {
+        "local": "Sao Lourenco dos Orgaos",
+        "en": "Sao Lourenco dos Orgaos",
+        "slug": "sao-lourenco-dos-orgaos-cv17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.067",
+    "lon": "-23.585"
+  },
+  "metadata": {},
+  "source": {}
+}

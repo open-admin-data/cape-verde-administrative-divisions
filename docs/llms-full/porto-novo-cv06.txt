@@ -1,0 +1,19 @@
+# Porto Novo — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV06
+> Coordinates: 17.017, -25.2
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santo Andre
+
+Code: CV0601, Coordinates: 17.075, -25.262
+
+
+### Sao Joao Baptista
+
+Code: CV0602, Coordinates: 17.011, -25.205
+
+

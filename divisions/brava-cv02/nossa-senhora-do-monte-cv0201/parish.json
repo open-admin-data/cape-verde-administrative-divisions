@@ -1,0 +1,45 @@
+{
+  "id": "CV0201",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora do Monte",
+    "en": "Nossa Senhora do Monte",
+    "slug": "nossa-senhora-do-monte-cv0201"
+  },
+  "code": {
+    "id": "CV0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV02",
+    "level": 1,
+    "name": {
+      "local": "Brava",
+      "en": "Brava",
+      "slug": "brava-cv02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV02",
+      "level": 1,
+      "name": {
+        "local": "Brava",
+        "en": "Brava",
+        "slug": "brava-cv02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.848",
+    "lon": "-24.723"
+  },
+  "metadata": {},
+  "source": {}
+}

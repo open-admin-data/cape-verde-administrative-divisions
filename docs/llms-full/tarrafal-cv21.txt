@@ -1,0 +1,14 @@
+# Tarrafal — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV21
+> Coordinates: 15.266, -23.723
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Santo Amaro Abade
+
+Code: CV2101, Coordinates: 15.266, -23.723
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CV2001",
+  "level": 2,
+  "level_name": {
+    "local": "Freguesia",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Nossa Senhora da Luz",
+    "en": "Nossa Senhora da Luz",
+    "slug": "nossa-senhora-da-luz-cv2001"
+  },
+  "code": {
+    "id": "CV2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CV20",
+    "level": 1,
+    "name": {
+      "local": "Sao Vicente",
+      "en": "Sao Vicente",
+      "slug": "sao-vicente-cv20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CV20",
+      "level": 1,
+      "name": {
+        "local": "Sao Vicente",
+        "en": "Sao Vicente",
+        "slug": "sao-vicente-cv20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.85",
+    "lon": "-24.972"
+  },
+  "metadata": {},
+  "source": {}
+}

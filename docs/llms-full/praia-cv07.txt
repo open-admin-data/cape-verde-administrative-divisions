@@ -1,0 +1,14 @@
+# Praia — Cape Verde Administrative Divisions
+
+> 1 parishs
+> Code: CV07
+> Coordinates: 14.948, -23.516
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora da Graca
+
+Code: CV0701, Coordinates: 14.948, -23.516
+
+

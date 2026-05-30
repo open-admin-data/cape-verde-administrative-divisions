@@ -1,0 +1,29 @@
+{
+  "id": "CV05",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Paul",
+    "en": "Paul",
+    "slug": "paul-cv05"
+  },
+  "code": {
+    "id": "CV05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.119",
+    "lon": "-25.023"
+  },
+  "metadata": {},
+  "source": {}
+}

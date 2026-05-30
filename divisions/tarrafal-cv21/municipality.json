@@ -1,0 +1,29 @@
+{
+  "id": "CV21",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tarrafal",
+    "en": "Tarrafal",
+    "slug": "tarrafal-cv21"
+  },
+  "code": {
+    "id": "CV21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.266",
+    "lon": "-23.723"
+  },
+  "metadata": {},
+  "source": {}
+}

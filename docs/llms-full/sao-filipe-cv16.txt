@@ -1,0 +1,19 @@
+# Sao Filipe — Cape Verde Administrative Divisions
+
+> 2 parishs
+> Code: CV16
+> Coordinates: 14.922, -24.442
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Parishs
+
+### Nossa Senhora da Conceicao
+
+Code: CV1601, Coordinates: 14.881, -24.436
+
+
+### Sao Lourenco
+
+Code: CV1602, Coordinates: 14.978, -24.433
+
+

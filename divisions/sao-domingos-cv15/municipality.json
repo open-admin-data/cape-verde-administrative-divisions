@@ -1,0 +1,29 @@
+{
+  "id": "CV15",
+  "level": 1,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sao Domingos",
+    "en": "Sao Domingos",
+    "slug": "sao-domingos-cv15"
+  },
+  "code": {
+    "id": "CV15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "parish": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.031",
+    "lon": "-23.532"
+  },
+  "metadata": {},
+  "source": {}
+}
