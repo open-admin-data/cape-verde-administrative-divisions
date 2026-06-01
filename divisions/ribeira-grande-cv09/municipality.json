@@ -25,5 +25,9 @@
     "lon": "-25.132"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/ribeira-grande-cv09/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

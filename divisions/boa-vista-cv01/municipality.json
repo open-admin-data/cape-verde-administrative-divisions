@@ -25,5 +25,9 @@
     "lon": "-22.801"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/boa-vista-cv01/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

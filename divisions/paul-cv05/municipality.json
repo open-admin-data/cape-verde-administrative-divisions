@@ -25,5 +25,9 @@
     "lon": "-25.023"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/paul-cv05/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

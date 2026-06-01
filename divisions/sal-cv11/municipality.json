@@ -25,5 +25,9 @@
     "lon": "-22.939"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/sal-cv11/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

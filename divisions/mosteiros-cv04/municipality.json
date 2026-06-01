@@ -25,5 +25,9 @@
     "lon": "-24.339"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/mosteiros-cv04/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "-23.715"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/santa-catarina-cv12/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

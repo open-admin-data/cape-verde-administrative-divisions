@@ -1,694 +1,697 @@
-[
-  {
-    "id": "CV01",
-    "name": {
-      "local": "Boa Vista",
-      "en": "Boa Vista",
-      "slug": "boa-vista-cv01"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/cv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cape-verde-administrative-divisions",
+  "data": [
+    {
       "id": "CV01",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0101",
-        "name": {
-          "local": "Santa Isabel",
-          "en": "Santa Isabel",
-          "slug": "santa-isabel-cv0101"
-        },
-        "code": {
+      "name": {
+        "local": "Boa Vista",
+        "en": "Boa Vista",
+        "slug": "boa-vista-cv01"
+      },
+      "code": {
+        "id": "CV01",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0101",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0102",
-        "name": {
-          "local": "Sao Joao Baptista",
-          "en": "Sao Joao Baptista",
-          "slug": "sao-joao-baptista-cv0102"
+          "name": {
+            "local": "Santa Isabel",
+            "en": "Santa Isabel",
+            "slug": "santa-isabel-cv0101"
+          },
+          "code": {
+            "id": "CV0101",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0102",
-          "iso": null
+          "name": {
+            "local": "Sao Joao Baptista",
+            "en": "Sao Joao Baptista",
+            "slug": "sao-joao-baptista-cv0102"
+          },
+          "code": {
+            "id": "CV0102",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV02",
-    "name": {
-      "local": "Brava",
-      "en": "Brava",
-      "slug": "brava-cv02"
+      ]
     },
-    "code": {
+    {
       "id": "CV02",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0201",
-        "name": {
-          "local": "Nossa Senhora do Monte",
-          "en": "Nossa Senhora do Monte",
-          "slug": "nossa-senhora-do-monte-cv0201"
-        },
-        "code": {
+      "name": {
+        "local": "Brava",
+        "en": "Brava",
+        "slug": "brava-cv02"
+      },
+      "code": {
+        "id": "CV02",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0201",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0202",
-        "name": {
-          "local": "Sao Joao Baptista",
-          "en": "Sao Joao Baptista",
-          "slug": "sao-joao-baptista-cv0202"
+          "name": {
+            "local": "Nossa Senhora do Monte",
+            "en": "Nossa Senhora do Monte",
+            "slug": "nossa-senhora-do-monte-cv0201"
+          },
+          "code": {
+            "id": "CV0201",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0202",
-          "iso": null
+          "name": {
+            "local": "Sao Joao Baptista",
+            "en": "Sao Joao Baptista",
+            "slug": "sao-joao-baptista-cv0202"
+          },
+          "code": {
+            "id": "CV0202",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV03",
-    "name": {
-      "local": "Maio",
-      "en": "Maio",
-      "slug": "maio-cv03"
+      ]
     },
-    "code": {
+    {
       "id": "CV03",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0301",
-        "name": {
-          "local": "Nossa Senhora da Luz",
-          "en": "Nossa Senhora da Luz",
-          "slug": "nossa-senhora-da-luz-cv0301"
-        },
-        "code": {
+      "name": {
+        "local": "Maio",
+        "en": "Maio",
+        "slug": "maio-cv03"
+      },
+      "code": {
+        "id": "CV03",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0301",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora da Luz",
+            "en": "Nossa Senhora da Luz",
+            "slug": "nossa-senhora-da-luz-cv0301"
+          },
+          "code": {
+            "id": "CV0301",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV04",
-    "name": {
-      "local": "Mosteiros",
-      "en": "Mosteiros",
-      "slug": "mosteiros-cv04"
+      ]
     },
-    "code": {
+    {
       "id": "CV04",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0401",
-        "name": {
-          "local": "Nossa Senhora da Ajuda",
-          "en": "Nossa Senhora da Ajuda",
-          "slug": "nossa-senhora-da-ajuda-cv0401"
-        },
-        "code": {
+      "name": {
+        "local": "Mosteiros",
+        "en": "Mosteiros",
+        "slug": "mosteiros-cv04"
+      },
+      "code": {
+        "id": "CV04",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0401",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora da Ajuda",
+            "en": "Nossa Senhora da Ajuda",
+            "slug": "nossa-senhora-da-ajuda-cv0401"
+          },
+          "code": {
+            "id": "CV0401",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV05",
-    "name": {
-      "local": "Paul",
-      "en": "Paul",
-      "slug": "paul-cv05"
+      ]
     },
-    "code": {
+    {
       "id": "CV05",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0501",
-        "name": {
-          "local": "Santo Antonio das Pombas",
-          "en": "Santo Antonio das Pombas",
-          "slug": "santo-antonio-das-pombas-cv0501"
-        },
-        "code": {
+      "name": {
+        "local": "Paul",
+        "en": "Paul",
+        "slug": "paul-cv05"
+      },
+      "code": {
+        "id": "CV05",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0501",
-          "iso": null
+          "name": {
+            "local": "Santo Antonio das Pombas",
+            "en": "Santo Antonio das Pombas",
+            "slug": "santo-antonio-das-pombas-cv0501"
+          },
+          "code": {
+            "id": "CV0501",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV06",
-    "name": {
-      "local": "Porto Novo",
-      "en": "Porto Novo",
-      "slug": "porto-novo-cv06"
+      ]
     },
-    "code": {
+    {
       "id": "CV06",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0601",
-        "name": {
-          "local": "Santo Andre",
-          "en": "Santo Andre",
-          "slug": "santo-andre-cv0601"
-        },
-        "code": {
+      "name": {
+        "local": "Porto Novo",
+        "en": "Porto Novo",
+        "slug": "porto-novo-cv06"
+      },
+      "code": {
+        "id": "CV06",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0601",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0602",
-        "name": {
-          "local": "Sao Joao Baptista",
-          "en": "Sao Joao Baptista",
-          "slug": "sao-joao-baptista-cv0602"
+          "name": {
+            "local": "Santo Andre",
+            "en": "Santo Andre",
+            "slug": "santo-andre-cv0601"
+          },
+          "code": {
+            "id": "CV0601",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0602",
-          "iso": null
+          "name": {
+            "local": "Sao Joao Baptista",
+            "en": "Sao Joao Baptista",
+            "slug": "sao-joao-baptista-cv0602"
+          },
+          "code": {
+            "id": "CV0602",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV07",
-    "name": {
-      "local": "Praia",
-      "en": "Praia",
-      "slug": "praia-cv07"
+      ]
     },
-    "code": {
+    {
       "id": "CV07",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0701",
-        "name": {
-          "local": "Nossa Senhora da Graca",
-          "en": "Nossa Senhora da Graca",
-          "slug": "nossa-senhora-da-graca-cv0701"
-        },
-        "code": {
+      "name": {
+        "local": "Praia",
+        "en": "Praia",
+        "slug": "praia-cv07"
+      },
+      "code": {
+        "id": "CV07",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0701",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora da Graca",
+            "en": "Nossa Senhora da Graca",
+            "slug": "nossa-senhora-da-graca-cv0701"
+          },
+          "code": {
+            "id": "CV0701",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV08",
-    "name": {
-      "local": "Ribeira Brava",
-      "en": "Ribeira Brava",
-      "slug": "ribeira-brava-cv08"
+      ]
     },
-    "code": {
+    {
       "id": "CV08",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0801",
-        "name": {
-          "local": "Nossa Senhora da Lapa",
-          "en": "Nossa Senhora da Lapa",
-          "slug": "nossa-senhora-da-lapa-cv0801"
-        },
-        "code": {
+      "name": {
+        "local": "Ribeira Brava",
+        "en": "Ribeira Brava",
+        "slug": "ribeira-brava-cv08"
+      },
+      "code": {
+        "id": "CV08",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0801",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0802",
-        "name": {
-          "local": "Nossa Senhora do Rosario",
-          "en": "Nossa Senhora do Rosario",
-          "slug": "nossa-senhora-do-rosario-cv0802"
+          "name": {
+            "local": "Nossa Senhora da Lapa",
+            "en": "Nossa Senhora da Lapa",
+            "slug": "nossa-senhora-da-lapa-cv0801"
+          },
+          "code": {
+            "id": "CV0801",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0802",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora do Rosario",
+            "en": "Nossa Senhora do Rosario",
+            "slug": "nossa-senhora-do-rosario-cv0802"
+          },
+          "code": {
+            "id": "CV0802",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV09",
-    "name": {
-      "local": "Ribeira Grande",
-      "en": "Ribeira Grande",
-      "slug": "ribeira-grande-cv09"
+      ]
     },
-    "code": {
+    {
       "id": "CV09",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV0901",
-        "name": {
-          "local": "Nossa Senhora do Livramento",
-          "en": "Nossa Senhora do Livramento",
-          "slug": "nossa-senhora-do-livramento-cv0901"
-        },
-        "code": {
+      "name": {
+        "local": "Ribeira Grande",
+        "en": "Ribeira Grande",
+        "slug": "ribeira-grande-cv09"
+      },
+      "code": {
+        "id": "CV09",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV0901",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0902",
-        "name": {
-          "local": "Nossa Senhora do Rosario",
-          "en": "Nossa Senhora do Rosario",
-          "slug": "nossa-senhora-do-rosario-cv0902"
+          "name": {
+            "local": "Nossa Senhora do Livramento",
+            "en": "Nossa Senhora do Livramento",
+            "slug": "nossa-senhora-do-livramento-cv0901"
+          },
+          "code": {
+            "id": "CV0901",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0902",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0903",
-        "name": {
-          "local": "Santo Crucifixo",
-          "en": "Santo Crucifixo",
-          "slug": "santo-crucifixo-cv0903"
+          "name": {
+            "local": "Nossa Senhora do Rosario",
+            "en": "Nossa Senhora do Rosario",
+            "slug": "nossa-senhora-do-rosario-cv0902"
+          },
+          "code": {
+            "id": "CV0902",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0903",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV0904",
-        "name": {
-          "local": "Sao Pedro Apostolo",
-          "en": "Sao Pedro Apostolo",
-          "slug": "sao-pedro-apostolo-cv0904"
+          "name": {
+            "local": "Santo Crucifixo",
+            "en": "Santo Crucifixo",
+            "slug": "santo-crucifixo-cv0903"
+          },
+          "code": {
+            "id": "CV0903",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV0904",
-          "iso": null
+          "name": {
+            "local": "Sao Pedro Apostolo",
+            "en": "Sao Pedro Apostolo",
+            "slug": "sao-pedro-apostolo-cv0904"
+          },
+          "code": {
+            "id": "CV0904",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV10",
-    "name": {
-      "local": "Ribeira Grande de Santiago",
-      "en": "Ribeira Grande de Santiago",
-      "slug": "ribeira-grande-de-santiago-cv10"
+      ]
     },
-    "code": {
+    {
       "id": "CV10",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1001",
-        "name": {
-          "local": "Santissimo Nome de Jesus",
-          "en": "Santissimo Nome de Jesus",
-          "slug": "santissimo-nome-de-jesus-cv1001"
-        },
-        "code": {
+      "name": {
+        "local": "Ribeira Grande de Santiago",
+        "en": "Ribeira Grande de Santiago",
+        "slug": "ribeira-grande-de-santiago-cv10"
+      },
+      "code": {
+        "id": "CV10",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1001",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV1002",
-        "name": {
-          "local": "Sao Joao Baptista",
-          "en": "Sao Joao Baptista",
-          "slug": "sao-joao-baptista-cv1002"
+          "name": {
+            "local": "Santissimo Nome de Jesus",
+            "en": "Santissimo Nome de Jesus",
+            "slug": "santissimo-nome-de-jesus-cv1001"
+          },
+          "code": {
+            "id": "CV1001",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV1002",
-          "iso": null
+          "name": {
+            "local": "Sao Joao Baptista",
+            "en": "Sao Joao Baptista",
+            "slug": "sao-joao-baptista-cv1002"
+          },
+          "code": {
+            "id": "CV1002",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV11",
-    "name": {
-      "local": "Sal",
-      "en": "Sal",
-      "slug": "sal-cv11"
+      ]
     },
-    "code": {
+    {
       "id": "CV11",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1101",
-        "name": {
-          "local": "Nossa Senhora das Dores",
-          "en": "Nossa Senhora das Dores",
-          "slug": "nossa-senhora-das-dores-cv1101"
-        },
-        "code": {
+      "name": {
+        "local": "Sal",
+        "en": "Sal",
+        "slug": "sal-cv11"
+      },
+      "code": {
+        "id": "CV11",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1101",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora das Dores",
+            "en": "Nossa Senhora das Dores",
+            "slug": "nossa-senhora-das-dores-cv1101"
+          },
+          "code": {
+            "id": "CV1101",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV12",
-    "name": {
-      "local": "Santa Catarina",
-      "en": "Santa Catarina",
-      "slug": "santa-catarina-cv12"
+      ]
     },
-    "code": {
+    {
       "id": "CV12",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1201",
-        "name": {
-          "local": "Santa Catarina",
-          "en": "Santa Catarina",
-          "slug": "santa-catarina-cv1201"
-        },
-        "code": {
+      "name": {
+        "local": "Santa Catarina",
+        "en": "Santa Catarina",
+        "slug": "santa-catarina-cv12"
+      },
+      "code": {
+        "id": "CV12",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1201",
-          "iso": null
+          "name": {
+            "local": "Santa Catarina",
+            "en": "Santa Catarina",
+            "slug": "santa-catarina-cv1201"
+          },
+          "code": {
+            "id": "CV1201",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV13",
-    "name": {
-      "local": "Santa Catarina do Fogo",
-      "en": "Santa Catarina do Fogo",
-      "slug": "santa-catarina-do-fogo-cv13"
+      ]
     },
-    "code": {
+    {
       "id": "CV13",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1301",
-        "name": {
-          "local": "Santa Catarina do Fogo",
-          "en": "Santa Catarina do Fogo",
-          "slug": "santa-catarina-do-fogo-cv1301"
-        },
-        "code": {
+      "name": {
+        "local": "Santa Catarina do Fogo",
+        "en": "Santa Catarina do Fogo",
+        "slug": "santa-catarina-do-fogo-cv13"
+      },
+      "code": {
+        "id": "CV13",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1301",
-          "iso": null
+          "name": {
+            "local": "Santa Catarina do Fogo",
+            "en": "Santa Catarina do Fogo",
+            "slug": "santa-catarina-do-fogo-cv1301"
+          },
+          "code": {
+            "id": "CV1301",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV14",
-    "name": {
-      "local": "Santa Cruz",
-      "en": "Santa Cruz",
-      "slug": "santa-cruz-cv14"
+      ]
     },
-    "code": {
+    {
       "id": "CV14",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1401",
-        "name": {
-          "local": "Santiago Maior",
-          "en": "Santiago Maior",
-          "slug": "santiago-maior-cv1401"
-        },
-        "code": {
+      "name": {
+        "local": "Santa Cruz",
+        "en": "Santa Cruz",
+        "slug": "santa-cruz-cv14"
+      },
+      "code": {
+        "id": "CV14",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1401",
-          "iso": null
+          "name": {
+            "local": "Santiago Maior",
+            "en": "Santiago Maior",
+            "slug": "santiago-maior-cv1401"
+          },
+          "code": {
+            "id": "CV1401",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV15",
-    "name": {
-      "local": "Sao Domingos",
-      "en": "Sao Domingos",
-      "slug": "sao-domingos-cv15"
+      ]
     },
-    "code": {
+    {
       "id": "CV15",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1501",
-        "name": {
-          "local": "Nossa Senhora da Luz",
-          "en": "Nossa Senhora da Luz",
-          "slug": "nossa-senhora-da-luz-cv1501"
-        },
-        "code": {
+      "name": {
+        "local": "Sao Domingos",
+        "en": "Sao Domingos",
+        "slug": "sao-domingos-cv15"
+      },
+      "code": {
+        "id": "CV15",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1501",
-          "iso": null
-        }
-      },
-      {
-        "id": "CV1502",
-        "name": {
-          "local": "Sao Nicolau Tolentino",
-          "en": "Sao Nicolau Tolentino",
-          "slug": "sao-nicolau-tolentino-cv1502"
+          "name": {
+            "local": "Nossa Senhora da Luz",
+            "en": "Nossa Senhora da Luz",
+            "slug": "nossa-senhora-da-luz-cv1501"
+          },
+          "code": {
+            "id": "CV1501",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV1502",
-          "iso": null
+          "name": {
+            "local": "Sao Nicolau Tolentino",
+            "en": "Sao Nicolau Tolentino",
+            "slug": "sao-nicolau-tolentino-cv1502"
+          },
+          "code": {
+            "id": "CV1502",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV16",
-    "name": {
-      "local": "Sao Filipe",
-      "en": "Sao Filipe",
-      "slug": "sao-filipe-cv16"
+      ]
     },
-    "code": {
+    {
       "id": "CV16",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1601",
-        "name": {
-          "local": "Nossa Senhora da Conceicao",
-          "en": "Nossa Senhora da Conceicao",
-          "slug": "nossa-senhora-da-conceicao-cv1601"
-        },
-        "code": {
-          "id": "CV1601",
-          "iso": null
-        }
+      "name": {
+        "local": "Sao Filipe",
+        "en": "Sao Filipe",
+        "slug": "sao-filipe-cv16"
       },
-      {
-        "id": "CV1602",
-        "name": {
-          "local": "Sao Lourenco",
-          "en": "Sao Lourenco",
-          "slug": "sao-lourenco-cv1602"
+      "code": {
+        "id": "CV16",
+        "iso": null
+      },
+      "parish": [
+        {
+          "id": "CV1601",
+          "name": {
+            "local": "Nossa Senhora da Conceicao",
+            "en": "Nossa Senhora da Conceicao",
+            "slug": "nossa-senhora-da-conceicao-cv1601"
+          },
+          "code": {
+            "id": "CV1601",
+            "iso": null
+          }
         },
-        "code": {
+        {
           "id": "CV1602",
-          "iso": null
+          "name": {
+            "local": "Sao Lourenco",
+            "en": "Sao Lourenco",
+            "slug": "sao-lourenco-cv1602"
+          },
+          "code": {
+            "id": "CV1602",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV17",
-    "name": {
-      "local": "Sao Lourenco dos Orgaos",
-      "en": "Sao Lourenco dos Orgaos",
-      "slug": "sao-lourenco-dos-orgaos-cv17"
+      ]
     },
-    "code": {
+    {
       "id": "CV17",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1701",
-        "name": {
-          "local": "Sao Lourenco dos Orgaos",
-          "en": "Sao Lourenco dos Orgaos",
-          "slug": "sao-lourenco-dos-orgaos-cv1701"
-        },
-        "code": {
+      "name": {
+        "local": "Sao Lourenco dos Orgaos",
+        "en": "Sao Lourenco dos Orgaos",
+        "slug": "sao-lourenco-dos-orgaos-cv17"
+      },
+      "code": {
+        "id": "CV17",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1701",
-          "iso": null
+          "name": {
+            "local": "Sao Lourenco dos Orgaos",
+            "en": "Sao Lourenco dos Orgaos",
+            "slug": "sao-lourenco-dos-orgaos-cv1701"
+          },
+          "code": {
+            "id": "CV1701",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV18",
-    "name": {
-      "local": "Sao Miguel",
-      "en": "Sao Miguel",
-      "slug": "sao-miguel-cv18"
+      ]
     },
-    "code": {
+    {
       "id": "CV18",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1801",
-        "name": {
-          "local": "Sao Miguel Arcanjo",
-          "en": "Sao Miguel Arcanjo",
-          "slug": "sao-miguel-arcanjo-cv1801"
-        },
-        "code": {
+      "name": {
+        "local": "Sao Miguel",
+        "en": "Sao Miguel",
+        "slug": "sao-miguel-cv18"
+      },
+      "code": {
+        "id": "CV18",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1801",
-          "iso": null
+          "name": {
+            "local": "Sao Miguel Arcanjo",
+            "en": "Sao Miguel Arcanjo",
+            "slug": "sao-miguel-arcanjo-cv1801"
+          },
+          "code": {
+            "id": "CV1801",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV19",
-    "name": {
-      "local": "Sao Salvador do Mundo",
-      "en": "Sao Salvador do Mundo",
-      "slug": "sao-salvador-do-mundo-cv19"
+      ]
     },
-    "code": {
+    {
       "id": "CV19",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV1901",
-        "name": {
-          "local": "Sao Salvador do Mundo",
-          "en": "Sao Salvador do Mundo",
-          "slug": "sao-salvador-do-mundo-cv1901"
-        },
-        "code": {
+      "name": {
+        "local": "Sao Salvador do Mundo",
+        "en": "Sao Salvador do Mundo",
+        "slug": "sao-salvador-do-mundo-cv19"
+      },
+      "code": {
+        "id": "CV19",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV1901",
-          "iso": null
+          "name": {
+            "local": "Sao Salvador do Mundo",
+            "en": "Sao Salvador do Mundo",
+            "slug": "sao-salvador-do-mundo-cv1901"
+          },
+          "code": {
+            "id": "CV1901",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV20",
-    "name": {
-      "local": "Sao Vicente",
-      "en": "Sao Vicente",
-      "slug": "sao-vicente-cv20"
+      ]
     },
-    "code": {
+    {
       "id": "CV20",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV2001",
-        "name": {
-          "local": "Nossa Senhora da Luz",
-          "en": "Nossa Senhora da Luz",
-          "slug": "nossa-senhora-da-luz-cv2001"
-        },
-        "code": {
+      "name": {
+        "local": "Sao Vicente",
+        "en": "Sao Vicente",
+        "slug": "sao-vicente-cv20"
+      },
+      "code": {
+        "id": "CV20",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV2001",
-          "iso": null
+          "name": {
+            "local": "Nossa Senhora da Luz",
+            "en": "Nossa Senhora da Luz",
+            "slug": "nossa-senhora-da-luz-cv2001"
+          },
+          "code": {
+            "id": "CV2001",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV21",
-    "name": {
-      "local": "Tarrafal",
-      "en": "Tarrafal",
-      "slug": "tarrafal-cv21"
+      ]
     },
-    "code": {
+    {
       "id": "CV21",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV2101",
-        "name": {
-          "local": "Santo Amaro Abade",
-          "en": "Santo Amaro Abade",
-          "slug": "santo-amaro-abade-cv2101"
-        },
-        "code": {
+      "name": {
+        "local": "Tarrafal",
+        "en": "Tarrafal",
+        "slug": "tarrafal-cv21"
+      },
+      "code": {
+        "id": "CV21",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV2101",
-          "iso": null
+          "name": {
+            "local": "Santo Amaro Abade",
+            "en": "Santo Amaro Abade",
+            "slug": "santo-amaro-abade-cv2101"
+          },
+          "code": {
+            "id": "CV2101",
+            "iso": null
+          }
         }
-      }
-    ]
-  },
-  {
-    "id": "CV22",
-    "name": {
-      "local": "Tarrafal de Sao Nicolau",
-      "en": "Tarrafal de Sao Nicolau",
-      "slug": "tarrafal-de-sao-nicolau-cv22"
+      ]
     },
-    "code": {
+    {
       "id": "CV22",
-      "iso": null
-    },
-    "parish": [
-      {
-        "id": "CV2201",
-        "name": {
-          "local": "Sao Francisco de Assis",
-          "en": "Sao Francisco de Assis",
-          "slug": "sao-francisco-de-assis-cv2201"
-        },
-        "code": {
+      "name": {
+        "local": "Tarrafal de Sao Nicolau",
+        "en": "Tarrafal de Sao Nicolau",
+        "slug": "tarrafal-de-sao-nicolau-cv22"
+      },
+      "code": {
+        "id": "CV22",
+        "iso": null
+      },
+      "parish": [
+        {
           "id": "CV2201",
-          "iso": null
+          "name": {
+            "local": "Sao Francisco de Assis",
+            "en": "Sao Francisco de Assis",
+            "slug": "sao-francisco-de-assis-cv2201"
+          },
+          "code": {
+            "id": "CV2201",
+            "iso": null
+          }
         }
-      }
-    ]
-  }
-]
+      ]
+    }
+  ]
+}

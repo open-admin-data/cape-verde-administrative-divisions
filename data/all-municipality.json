@@ -26,7 +26,11 @@
       "lon": "-22.801"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/boa-vista-cv01/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV02",
@@ -55,7 +59,11 @@
       "lon": "-24.709"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/brava-cv02/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV03",
@@ -84,7 +92,11 @@
       "lon": "-23.156"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/maio-cv03/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV04",
@@ -113,7 +125,11 @@
       "lon": "-24.339"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/mosteiros-cv04/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV05",
@@ -142,7 +158,11 @@
       "lon": "-25.023"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/paul-cv05/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV06",
@@ -171,7 +191,11 @@
       "lon": "-25.2"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/porto-novo-cv06/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV07",
@@ -200,7 +224,11 @@
       "lon": "-23.516"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/praia-cv07/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV08",
@@ -229,7 +257,11 @@
       "lon": "-24.088"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/ribeira-brava-cv08/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV09",
@@ -258,7 +290,11 @@
       "lon": "-25.132"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/ribeira-grande-cv09/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV10",
@@ -287,7 +323,11 @@
       "lon": "-23.653"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/ribeira-grande-de-santiago-cv10/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV11",
@@ -316,7 +356,11 @@
       "lon": "-22.939"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sal-cv11/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV12",
@@ -345,7 +389,11 @@
       "lon": "-23.715"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/santa-catarina-cv12/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV13",
@@ -374,7 +422,11 @@
       "lon": "-24.323"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/santa-catarina-do-fogo-cv13/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV14",
@@ -403,7 +455,11 @@
       "lon": "-23.55"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/santa-cruz-cv14/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV15",
@@ -432,7 +488,11 @@
       "lon": "-23.532"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-domingos-cv15/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV16",
@@ -461,7 +521,11 @@
       "lon": "-24.442"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-filipe-cv16/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV17",
@@ -490,7 +554,11 @@
       "lon": "-23.585"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-lourenco-dos-orgaos-cv17/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV18",
@@ -519,7 +587,11 @@
       "lon": "-23.643"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-miguel-cv18/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV19",
@@ -548,7 +620,11 @@
       "lon": "-23.631"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-salvador-do-mundo-cv19/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV20",
@@ -577,7 +653,11 @@
       "lon": "-24.972"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/sao-vicente-cv20/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV21",
@@ -606,7 +686,11 @@
       "lon": "-23.723"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/tarrafal-cv21/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   },
   {
     "id": "CV22",
@@ -635,6 +719,10 @@
       "lon": "-24.334"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cv/municipalities/tarrafal-de-sao-nicolau-cv22/",
+      "api": "https://openadmindata.org/api/cv/"
+    }
   }
 ]

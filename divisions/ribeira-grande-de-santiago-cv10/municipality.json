@@ -25,5 +25,9 @@
     "lon": "-23.653"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/ribeira-grande-de-santiago-cv10/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "-23.55"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/santa-cruz-cv14/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "-24.088"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/ribeira-brava-cv08/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

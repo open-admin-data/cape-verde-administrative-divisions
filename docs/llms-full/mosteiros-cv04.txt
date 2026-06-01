@@ -3,7 +3,7 @@
 > 1 parishs
 > Code: CV04
 > Coordinates: 15.001, -24.339
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Parishs
 

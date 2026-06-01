@@ -25,5 +25,9 @@
     "lon": "-24.709"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/brava-cv02/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }

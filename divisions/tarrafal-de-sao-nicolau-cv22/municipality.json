@@ -25,5 +25,9 @@
     "lon": "-24.334"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cv/municipalities/tarrafal-de-sao-nicolau-cv22/",
+    "api": "https://openadmindata.org/api/cv/"
+  }
 }
