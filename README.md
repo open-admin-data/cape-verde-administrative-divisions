@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/cv](https://openadmindata.org/cv/) |
 | API | [openadmindata.org/api/cv](https://openadmindata.org/api/cv/) |
+| Flag | [PNG](https://onlygames.me/flags-png/cv/) · [SVG](https://onlygames.me/flags-svg/cv/) · [PDF](https://onlygames.me/flags-pdf/cv/) |
 | National Anthem | [🎵 Listen & Download Cape Verde National Anthem MP3](https://onlygames.me/national-anthems/cv/) |
 
 ## Browse by Municipality
